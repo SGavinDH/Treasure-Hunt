@@ -1,2 +1,2 @@
 # Treasure-Hunt
-An extremely basic and extremely limited text-based game about treasure hunting.
+An extremely basic and extremely limited CLI game about treasure hunting.
